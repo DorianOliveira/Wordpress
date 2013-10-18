@@ -1,0 +1,4 @@
+Variado
+=======
+
+Conteúdo variado
