@@ -3,7 +3,7 @@
               <meta charset=utf-8" />
               <title><?php bloginfo('title'). ' . ' . wp_title() ?></title>
               <meta name="description">
-              <link href="<?php bloginfo('stylesheet_url'); ?>" rel="stylesheet" type="text/css" />
+              <link href="<?php bloginfo('stylesheet_url'); ?>" rel="stylesheet">
               <?php wp_head(); ?>
        </head>
 
